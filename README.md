@@ -1,7 +1,3 @@
-# CV
-List of my achievements in my coding career!
-
-
 # Emil Ivanov
 
 [My Projects](#my-projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Interests](#interests)
