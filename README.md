@@ -61,13 +61,13 @@ Simple banking application I created back in college when I was learning to use 
 
 ### Technical Skills
 
-**Programming Languages/Tools:** PHP, JavaScript, Java, C#, HTML, CSS, PostgreSQL, JSON
+**Programming Languages/Tools:** PHP, JavaScript, Java, C#, HTML, CSS, PostgreSQL, JSON, SASS
 
-**Frameworks/Libraries:** jQuery, Codeigniter
+**Frameworks/Libraries:** jQuery, Codeigniter, ElasticSearch
 
-**Software:** Adobe Photoshop, MS Visual Studio, IntelliJ
+**Software:** Adobe Photoshop, MS Visual Studio, IntelliJ, PHP Storm, Data Grip, Atlassian products e.g. Jira, Crucible etc.
 
-**Other:** Git/Github
+**Other:** Git, Perforce
 
 **I'm currently in the process of teaching myself:**
 
@@ -86,7 +86,7 @@ Valuable skills I gained from stage 1 and half-way through stage 2:
 * Working with Agile methodologies and learning about agile, test-driven development (TDD) and the importance of requirements gathering.
 
 Languages and frameworks studied:
-* JavaScript, jQuery
+* JavaScript, jQuery, Java
 * Ajax, JSON, Codeigniter
 * PHP, PostgreSQL, MySQL
 * HTML, CSS
@@ -95,6 +95,22 @@ Languages and frameworks studied:
 
 
 ### Experience
+
+**Fivium, London (July 2018 - August 2019)**
+
+Junior Application Developer
+	
+Full-stack development of web systems used by government departments/agencies for regulatory purposes and correspondence handling. Earlier systems (2009-2017) were coded in Oracle PL/SQL and XML (using an inhouse developed Java framework - FOXopen). More recent systems (2017-2019) were developed in Java 8 using the Spring Boot and Play frameworks (including Camunda).
+
+Duties:
+* Collecting and analyzing requirements, managing user needs balanced with time constraints
+* Software design, development, and testing (strong focus on testing in development)
+* Experience working in Agile teams
+* Data model design and implementation
+* System workflow design and documentation (Microsoft Visio and Camunda Modeler - BPMN 2)
+* A scrupulous code reviewer
+* Project hand-off, training users and initial support
+* Responsible for code promotion (from development through to user acceptance testing)
 
 **Allianz Bulgaria Holding, Bulgaria (June-Sept 2015)**
 
